@@ -6,17 +6,17 @@ Hello! I'm Nilesh, a passionate developer with a keen interest in creating innov
 
 ## 🔭 Projects
 
-- **[Project Name 1](https://github.com/nilesh14k/Project1):** Brief description of the project.
-- **[Project Name 2](https://github.com/nilesh14k/Project2):** Brief description of the project.
-- **[Project Name 3](https://github.com/nilesh14k/Project3):** Brief description of the project.
+- **[Image Caption Generation](https://github.com/nilesh14k/Image-Caption-Generation):** A project focused on generating captions for images using deep learning techniques.
+- **[SciMl BAS Ice Segmentation](https://github.com/nilesh14k/SciMl-BAS-Ice-Segmention):** A scientific machine learning project for ice segmentation using data from the British Antarctic Survey.
+- **[Thesis on Sunspots, Solar Flare, Coronal Mass Ejections, and Solar Winds](https://github.com/nilesh14k/Thesis-on-Sunspots-SolarFlare-CoronalMassEjections-SolarWinds):** A comprehensive thesis on various solar phenomena and their effects.
 
 ## 🌱 What I'm Learning
 
 I'm currently diving into:
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Advanced Machine Learning Techniques
+- Image Processing
+- Scientific Data Analysis
 
 ## 👯 Let's Collaborate
 
@@ -28,19 +28,19 @@ I'm open to collaborating on:
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [nileshkumar.nkmr@gmail.com](mailto:nileshkumar.nkmr@gmail.com)
+- LinkedIn: [Nilesh Kumar](https://linkedin.com/in/nilesh14k)
+- Twitter: [@nilesh14k](https://twitter.com/nilesh14k)
 
 ## 💬 Ask Me About
 
-- Topic 1
-- Topic 2
-- Topic 3
+- Machine Learning
+- Data Science
+- Solar Physics
 
 ## ⚡ Fun Fact
 
-A fun fact about yourself or something interesting you'd like to share.
+A fun fact about myself or something interesting I'd like to share.
 
 ---
 
