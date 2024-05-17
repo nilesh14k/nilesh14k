@@ -38,10 +38,6 @@ I'm open to collaborating on:
 - Data Science
 - Solar Physics
 
-## ⚡ Fun Fact
-
-A fun fact about myself or something interesting I'd like to share.
-
 ---
 
 Thanks for visiting my profile! Have a great day! 😊
