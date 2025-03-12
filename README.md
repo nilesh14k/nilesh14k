@@ -28,8 +28,8 @@ I'm open to collaborating on:
 ## 📫 How to Reach Me
 
 - Email: [nileshkumar.nkmr@gmail.com](mailto:nileshkumar.nkmr@gmail.com)
-- LinkedIn: [Nilesh Kumar](https://linkedin.com/in/nileshkumar14)
-- Twitter: [@nilesh14k](https://twitter.com/nilesh14k)
+- LinkedIn: [Nilesh Kumar](https://linkedin.com/in/nileshkumar14/)
+- Twitter: [@nilesh14k](https://twitter.com/nilesh14k/)
 
 ## 💬 Ask Me About
 
